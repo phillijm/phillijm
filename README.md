@@ -8,6 +8,7 @@ My PhD, _"The Automated Generation of Source Code Summaries Using Natural Langua
 
 ## Publications
 
+- [Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=k6MDHNsAAAAJ&citation_for_view=k6MDHNsAAAAJ:9yKSN-GCB0IC) (Phillips et al., NLPAICS 2026)
 - [Metric-Oriented Pretraining of Neural Source Code Summarisation Transformers to Enable more Secure Software Development](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14814585053580938999) (Phillips et al., NLPAICS 2024)
 - [LISAScore: Exploring Linear Sum Assignment on BERTScore](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_24) (Mander and Phillips, NLDB 2024)
 - [Improved Evaluation of Automatic Source Code Summarisation](https://aclanthology.org/2022.gem-1.28) (Phillips et al., GEM 2022)
