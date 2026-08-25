@@ -8,14 +8,14 @@ My PhD, _"The Automated Generation of Source Code Summaries Using Natural Langua
 
 ## Publications
 
-- [Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development](https://scholar.google.co.uk/citations?view_op=view_citation&hl=en&user=k6MDHNsAAAAJ&citation_for_view=k6MDHNsAAAAJ:9yKSN-GCB0IC) (Phillips et al., NLPAICS 2026)
-- [Metric-Oriented Pretraining of Neural Source Code Summarisation Transformers to Enable more Secure Software Development](https://scholar.google.com/scholar?oi=bibs&hl=en&cluster=14814585053580938999) (Phillips et al., NLPAICS 2024)
+- [Transformer-Assisted LLM-Based Source Code Summarisation: to Enable More Secure Software Development](https://aclanthology.org/2026.nlpaics-1.4/) (Phillips et al., NLPAICS 2026)
+- [Metric-Oriented Pretraining of Neural Source Code Summarisation Transformers to Enable more Secure Software Development](https://aclanthology.org/2024.nlpaics-1.3/) (Phillips et al., NLPAICS 2024)
 - [LISAScore: Exploring Linear Sum Assignment on BERTScore](https://link.springer.com/chapter/10.1007/978-3-031-70242-6_24) (Mander and Phillips, NLDB 2024)
-- [Improved Evaluation of Automatic Source Code Summarisation](https://aclanthology.org/2022.gem-1.28) (Phillips et al., GEM 2022)
+- [Improved Evaluation of Automatic Source Code Summarisation](https://aclanthology.org/2022.gem-1.28/) (Phillips et al., GEM 2022)
 
 ## Get in touch
 
-<p align="center"><a href="https://www.linkedin.com/in/james-phillips-uk/" title="Find me on LinkedIn">LinkedIn</a> | <a href="https://jessephillips.uk/" title="Visit my website">Website</a> | <a href="https://github.com/JamesPhillipsUK" title="View my GitHub">Main GitHub Account</a></p>
+<p align="center"><a href="https://www.linkedin.com/in/james-phillips-uk/" title="Find me on LinkedIn">LinkedIn</a> | <a href="https://jessephillips.uk/" title="Visit my website">Website</a> | <a href="https://github.com/JamesPhillipsUK" title="View my GitHub">Main GitHub Account</a> | <a href="https://scholar.google.co.uk/citations?user=k6MDHNsAAAAJ&hl=en&oi=ao" title="Follow my research on Google Scholar">Google Scholar</a></p>
 
 <!--
 **phillijm/phillijm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
